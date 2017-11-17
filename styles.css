@@ -9,7 +9,9 @@
 }
 
 #animal-image{
-  padding-left: 10px; height: 300px; width: 300px;
+  padding-left: 10px;
+  height: 300px; 
+  width: 300px;
 }
 
 #animal-description {
